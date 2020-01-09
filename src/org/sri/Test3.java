@@ -19,6 +19,8 @@ public class Test3
 	 
 	 WebElement LinkCoreJava =  driver.findElement(By.xpath("//a[contains(text(),'Core JAVA  material')]"));
 	 LinkCoreJava.click();
+	 System.out.println("sridhar");
+	 System.out.println("Deeran");
 	
 	}	 
 
